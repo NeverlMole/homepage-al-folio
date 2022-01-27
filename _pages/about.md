@@ -15,10 +15,10 @@ profile:
 news: false  # includes a list of news items
 papers: true # includes a list of papers
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
-I am a second-year Ph.D. student working in cryptography at [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington. I am co-advised by [Stefano Tessaro](https://homes.cs.washington.edu/~tessaro/) and [Rachel Lin](homes.cs.washington.edu/~rachel/).
+I am a second-year Ph.D. student working on cryptography in the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/) at the University of Washington. I am co-advised by [Stefano Tessaro](https://homes.cs.washington.edu/~tessaro/) and [Rachel Lin](homes.cs.washington.edu/~rachel/).
 
 Prior to this, I received my bachelor's degree from [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/) at Tsinghua University. I was visiting [CMU](https://www.cs.cmu.edu/) during 2019, working under the supervision of [Vipul Goyal](https://www.cs.cmu.edu/~goyal/) on cryptography.
 
