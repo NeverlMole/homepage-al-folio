@@ -430,19 +430,31 @@ footer.sticky-bottom {
       }
       .title {
         font-weight: bolder;
+        a {
+          color: var(--global-text-color)
+          &:hover {
+              border-bottom-style: 1px dashed var(--global-text-color);
+              text-decoration: none;
+          }
+        }
       }
       .author {
         a {
-          border-bottom: 1px dashed var(--global-theme-color);
+          color: var(--global-text-color)
           &:hover {
-              border-bottom-style: solid;
+              border-bottom-style: 1px dashed var(--global-text-color);
               text-decoration: none;
           }
         }
         > em {
-          border-bottom: 1px solid;
+          border-bottom: 1px dashed;
           font-style: normal;
         }
+      }
+      .booktitle {
+        > em {
+            font-weight: bolder;
+          }
       }
       .links {
         a.btn {
