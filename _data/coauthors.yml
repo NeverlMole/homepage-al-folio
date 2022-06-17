@@ -13,3 +13,31 @@
 "Song":
   - firstname: ["Yifan"]
     url: https://crypto-song.github.io/
+
+"Bellare":
+  - firstname: ["Mihir"]
+    url: https://cseweb.ucsd.edu/~mihir/
+
+"Crites":
+  - firstname: ["Elizabeth"]
+    url: https://elizabeth-crites.github.io/
+
+"Komlo":
+  - firstname: ["Chelsea"]
+    url: https://www.chelseakomlo.com/
+
+"Maller":
+  - firstname: ["Mary"]
+    url: https://www.marymaller.com/
+
+"Yan":
+  - firstname: ["Francis Y."]
+    url: https://francisyyan.org/
+
+"Winstein":
+  - firstname: ["Keith"]
+    url: https://cs.stanford.edu/~keithw/
+
+"Fouladi":
+  - firstname: ["Sadjad"]
+    url: https://sadjad.org/
